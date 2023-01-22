@@ -106,19 +106,19 @@ analytics:
 author:
   name             : "Juliana Lopes Souza"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm a Ph.D in Genetic Resources, Biodiversity and Bioprospecting. I have eight years of experience in plant sciences research, where I developed projects involving seed physiology and gene expression, which resulted in several publications and a patent. Currently, I'm a researcher in Seed Physiology and Biotechnology. I am moving into bioinformatics and looking for opportunities to leverage my experience and pursue my passion for continuous learning."
+  location         : "Brazil"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:juliana_lopes_souza@live.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/julopessouzas"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
