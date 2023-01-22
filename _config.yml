@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Juliana Lopes Souza, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Juliana Lopes Souza"
+description              : "Juliana Lopes Souza's website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Juliana Lopes Souza"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Ph.D in Genetic Resources, Biodiversity and Bioprospecting. I have eight years of experience in plant sciences research, where I developed projects involving seed physiology and gene expression, which resulted in several publications and a patent. Currently, I'm a researcher in Seed Physiology and Biotechnology. I am moving into bioinformatics and looking for opportunities to leverage my experience and pursue my passion for continuous learning."
+  bio              : "Ph.D in **Genetic Resources, Biodiversity and Bioprospecting** & Postdoc in **Seed Physiology** and **Biotechnology**."
   location         : "Brazil"
-  email            :
+  email            : "juliana_lopes_souza@live.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,8 +120,8 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/julopessouzas"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/juliana-lopes-souza/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
