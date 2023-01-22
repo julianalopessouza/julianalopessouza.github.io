@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juliana Lopes Souza"
-  avatar           : "https://pbs.twimg.com/profile_images/1526087100554264576/lzAA7qK0_400x400.jpg"
+  name             : #"Juliana Lopes Souza"
+  avatar           : #"https://pbs.twimg.com/profile_images/1526087100554264576/lzAA7qK0_400x400.jpg"
   bio              : "Ph.D in Genetic Resources, Biodiversity and Bioprospecting & Postdoc in Seed Physiology and Biotechnology."
   location         : "Brazil"
   email            : "juliana_lopes_souza@live.com
