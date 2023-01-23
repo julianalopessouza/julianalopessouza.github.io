@@ -135,7 +135,7 @@ footer:
     - label: ""
       icon: "fab fa-twitter"
       url: "https://twitter.com/julopessouzas"
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/juliana-lopes-souza/"
     - label: "GitHub"
@@ -144,13 +144,13 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "ResearchGate"
+    - label: ""
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Juliana-Souza-41"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: 
-    - label: "ORCID"
+    - label: ""
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-7514-0361"
 
