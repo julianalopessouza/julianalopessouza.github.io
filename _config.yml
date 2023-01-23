@@ -132,7 +132,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-twitter"
       url: "https://twitter.com/julopessouzas"
     - label: "LinkedIn"
