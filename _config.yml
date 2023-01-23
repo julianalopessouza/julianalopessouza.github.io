@@ -136,7 +136,7 @@ footer:
       icon: <i class="fa-regular fa-envelope"></i>
       url: "https://twitter.com/julopessouzas"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: <FontAwesomeIcon icon="fa-brands fa-linkedin-in" />
       url: "https://www.linkedin.com/in/juliana-lopes-souza/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
