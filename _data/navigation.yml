@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://julianalopessouza.github.io/
-  - title: "About"
-     url:https://julianalopessouza.github.io/about/
-  - title: "Sample Posts"
-     url: https://julianalopessouza.github.io/year-archive/
-  - title: "Sample Collections"
-     url: https://julianalopessouza.github.io/collection-archive/
-  - title: "Sitemap"
-     url: https://julianalopessouza.github.io/sitemap/
+  # - title: "About"
+     # url:https://julianalopessouza.github.io/about/
+  # - title: "Sample Posts"
+     # url: https://julianalopessouza.github.io/year-archive/
+  # - title: "Sample Collections"
+     # url: https://julianalopessouza.github.io/collection-archive/
+  # - title: "Sitemap"
+     # url: https://julianalopessouza.github.io/sitemap/
