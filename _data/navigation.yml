@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://julianalopessouza.github.io/
   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+     url:https://julianalopessouza.github.io/about/
   - title: "Sample Posts"
-     url: /year-archive/
+     url: https://julianalopessouza.github.io/year-archive/
   - title: "Sample Collections"
-     url: /collection-archive/
+     url: https://julianalopessouza.github.io/collection-archive/
   - title: "Sitemap"
-     url: /sitemap/
+     url: https://julianalopessouza.github.io/sitemap/
