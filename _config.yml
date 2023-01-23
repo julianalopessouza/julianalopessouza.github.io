@@ -111,7 +111,7 @@ author:
   email            : # "juliana_lopes_souza@live.com"
   links:
     - label: "Email"
-      icon: "fa-regular fa-envelope"
+      icon: "far fa-envelope"
       url: "mailto:juliana_lopes_souza@live.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -133,10 +133,10 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fas fa-at"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/julopessouzas"
     - label: "LinkedIn"
-      icon: <FontAwesomeIcon icon="fa-brands fa-linkedin-in" />
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/juliana-lopes-souza/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -144,12 +144,15 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Juliana-Souza-41"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: 
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-7514-0361"
 
 
 # Reading Files
