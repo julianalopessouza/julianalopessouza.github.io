@@ -111,7 +111,7 @@ author:
   email            : # "juliana_lopes_souza@live.com"
   links:
     - label: "Email"
-      icon: <i class="fal fa-envelope-open-text"></i>
+      icon: "fal fa-envelope-open-text"
       url: "mailto:juliana_lopes_souza@live.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
