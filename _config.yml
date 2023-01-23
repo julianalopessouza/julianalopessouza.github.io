@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fal fa-envelope-open-text"
+      icon: <i class="fa-regular fa-envelope"></i>
       url: "https://twitter.com/julopessouzas"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
